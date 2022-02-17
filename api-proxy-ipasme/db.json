@@ -1,0 +1,23 @@
+{
+  "Users": [
+    {
+      "id": "e9f24e8d-c558-400f-b9a9-b84584ee0787",
+      "usuario": "admin",
+      "password": "admin",
+      "roles": "administrador"
+    },
+    {
+      "id": "59662905-3dc9-4265-87e9-b8f1be8aa8a8",
+      "usuario": "bioanalista",
+      "password": "ipasme",
+      "roles": "bioanalista"
+    },
+    {
+      "id": "c5b78bc2-40d1-4dc4-a683-e0a8f5b8c183",
+      "usuario": "monagas",
+      "password": "$2a$10$ld8BAauFsnnru1qoYqiE2.VEKyRpTmYMkQopuZlAjaf1cJoeV2JWi",
+      "roles": "administrador"
+    }
+  ],
+  "Roles": []
+}
