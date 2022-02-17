@@ -1,5 +1,5 @@
 {
-  "name": "api-gateway-ipasme",
+  "name": "api-gateway-proxy",
   "version": "0.0.1",
   "description": "Un Backend Para el Sistema Administrativo Asistencial del Ipasme",
   "main": "dist/index.js",
